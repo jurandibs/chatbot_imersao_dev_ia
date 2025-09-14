@@ -1,0 +1,7 @@
+\static
+*pdf
+.env
+*png
+*pyc
+*faiss
+*pkl
