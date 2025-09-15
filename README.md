@@ -70,5 +70,10 @@ Contribuições são bem-vindas\! Se você tiver ideias para novas funcionalidad
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
 
+## Prints do Chatbot em Execução
+
+<img src="https://raw.githubusercontent.com/jurandibs/chatbot_imersao_dev_ia/refs/heads/main/chatbot1.png">
+
+<img src="https://raw.githubusercontent.com/jurandibs/chatbot_imersao_dev_ia/refs/heads/main/chatbot2.png">
 
 -----
